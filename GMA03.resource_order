@@ -17,12 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"sLandedShip","order":17,"path":"sprites/sLandedShip/sLandedShip.yy",},
+    {"name":"sLandedShip","order":3,"path":"sprites/sLandedShip/sLandedShip.yy",},
     {"name":"oShip","order":2,"path":"objects/oShip/oShip.yy",},
     {"name":"oMoon","order":1,"path":"objects/oMoon/oMoon.yy",},
-    {"name":"sMoon","order":18,"path":"sprites/sMoon/sMoon.yy",},
-    {"name":"sFlyingShip","order":16,"path":"sprites/sFlyingShip/sFlyingShip.yy",},
+    {"name":"sMoon","order":4,"path":"sprites/sMoon/sMoon.yy",},
+    {"name":"sFlyingShip","order":2,"path":"sprites/sFlyingShip/sFlyingShip.yy",},
     {"name":"sBackground","order":1,"path":"sprites/sBackground/sBackground.yy",},
-    {"name":"sShip","order":20,"path":"sprites/sShip/sShip.yy",},
+    {"name":"sShip","order":5,"path":"sprites/sShip/sShip.yy",},
   ],
 }
