@@ -7,18 +7,20 @@ if (_myMoon == noone)
 	return;
 }
 
+//
+audio_play_sound(aLaunch, 10, false);
+
 //destroy the moon
 instance_destroy(_myMoon);
 
 //set our moon pointer to noone
 _myMoon = noone;
 
-//now, set out speed
-speed = 4;
+//now, set our speed
+speed = 3;
 
-
-
-
+//set our sprite
+sprite_index = sFlyingShip;
 
 
 

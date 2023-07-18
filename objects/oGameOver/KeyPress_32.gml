@@ -1,9 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-draw_self();
-draw_text(1, 450, "Score: " + string(score));
-
+//if the user presses the space bar, reset the score and restart the game
+score = 0;
+game_restart();
 
 
 

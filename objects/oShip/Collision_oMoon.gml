@@ -7,6 +7,9 @@ if (_myMoon != noone)
 	return;
 }
 
+//play landing sound
+audio_play_sound(aLanded, 10, false);
+
 //stop moving
 speed = 0;
 
@@ -17,7 +20,8 @@ _myMoon = other;
 sprite_index = sLandedShip;
 
 
-
+//100 points for each delivered mail
+score += 100;
 
 
 
